@@ -1,0 +1,11 @@
+{
+  "name": "styles",
+  "version": "0.0.0",
+  "private": true,
+  "main": "global.css",
+  "files": [
+    "global.css",
+    "postcss.config.js",
+    "tailwind.config.js"
+  ]
+}
